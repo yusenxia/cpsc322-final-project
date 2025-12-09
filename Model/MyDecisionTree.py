@@ -2,7 +2,6 @@ import math
 import random
 from collections import Counter
 
-
 class MyDecisionTree:
 
     def __init__(self, F=None):
@@ -114,3 +113,4 @@ class MyDecisionTree:
             preds.append(pred)
         return preds
 
+DecisionTree = MyDecisionTree

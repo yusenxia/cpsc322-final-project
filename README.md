@@ -38,4 +38,6 @@ We have folder **mysklearn** to clean the dataset
 
 All the notebooks are in one floder call **Notebooks**
 
+Finally we have unit tests in folder **tests**
+
 
